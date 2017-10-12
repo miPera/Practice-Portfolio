@@ -1,0 +1,37 @@
+.custom_header {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.custom_paragraph {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.circular_profile {
+  /*round borders*/
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 50%;
+
+  /*Center image*/
+  display: block;
+  margin: 0 auto;
+}
+
+.white_background {
+  background-color: white;
+}
+
+#outer_social_media {
+  width: 100%;
+  text-align: center;
+}
+
+#inner_social_media {
+  display: inline-block;
+}
+
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
